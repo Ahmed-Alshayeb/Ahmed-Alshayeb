@@ -2,11 +2,10 @@
 <h3 align="center">Backend Node.js Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/ahmed-alshayeb-5843322a2/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+  <p align="left"> 
+    <a href="[https://www.linkedin.com/in/a-hemeda](https://linkedin.com/in/ahmed-alshayeb-5843322a2/)">
+      <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="60"/>
+  </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -60,6 +59,11 @@
 <br>
 <br>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-alshayeb&show_icons=true&theme=radical&locale=en&layout=compact" alt="ahmed-alshayeb" />
 </p>
+
+  <p align="left">
+    <a/> <!-- Snake -->
+      <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  </p>
