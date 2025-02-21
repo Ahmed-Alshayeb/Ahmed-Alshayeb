@@ -2,14 +2,22 @@
 <h3 align="center">Backend Node.js Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> 
-    <a href="https://www.linkedin.com/in/ahmed-alshayeb-5843322a2/" target="_blank" style="display: inline-block; margin-right: 20px;">
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" width="80">
+      <a href="https://www.linkedin.com/in/ahmed-alshayeb-5843322a2/" target="_blank">
         <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="60" alt="LinkedIn"/>
-    </a> 
-    <a href="https://www.facebook.com/ahmed.alshaib.96?locale=ar_AR" target="_blank" style="display: inline-block;margin-left: 200px;">
+      </a>
+    </td>
+    <td width="20"></td> <!-- Adds spacing -->
+    <td align="center" width="80">
+      <a href="https://www.facebook.com/ahmed.alshaib.96?locale=ar_AR" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" height="60" alt="Facebook"/>
-    </a>
-</p>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 
 
