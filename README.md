@@ -57,6 +57,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" style="margin: 10px;" />
   </a>
 </div>
+<br>
+<br>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmed-alshayeb&show_icons=true&theme=radical&locale=en&layout=compact" alt="ahmed-alshayeb" />
